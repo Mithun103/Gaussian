@@ -44,6 +44,7 @@ for i in range(n):
 ```
 
 ## Output:
+![mithun](https://user-images.githubusercontent.com/118344695/215434323-18934f22-cfc0-4f63-8d6d-47ef06035366.png)
 
 
 
